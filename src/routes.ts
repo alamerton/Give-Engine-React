@@ -1,12 +1,6 @@
-// src/routes.ts
-
-// pages
 import Home from "./pages/Home";
-
-// other
 import { FC } from "react";
 
-// interface
 interface Route {
   key: string;
   title: string;

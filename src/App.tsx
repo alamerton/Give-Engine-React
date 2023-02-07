@@ -1,4 +1,4 @@
-import { Box, CssBaseline, Paper, Typography } from "@mui/material";
+import { Box, CssBaseline } from "@mui/material";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { routes as appRoutes } from "./routes";
 import Navbar from "./components/Navbar";
